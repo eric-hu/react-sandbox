@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-sandbox/docs/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-sandbox/docs/static/js/main.d72a341e.chunk.js",
-    "main.js.map": "/react-sandbox/docs/static/js/main.d72a341e.chunk.js.map",
-    "runtime-main.js": "/react-sandbox/docs/static/js/runtime-main.bfdeb621.js",
-    "runtime-main.js.map": "/react-sandbox/docs/static/js/runtime-main.bfdeb621.js.map",
-    "static/js/2.dd65bab9.chunk.js": "/react-sandbox/docs/static/js/2.dd65bab9.chunk.js",
-    "static/js/2.dd65bab9.chunk.js.map": "/react-sandbox/docs/static/js/2.dd65bab9.chunk.js.map",
-    "index.html": "/react-sandbox/docs/index.html",
-    "precache-manifest.4aa5e08a546b43b1a9abf06b92f1c227.js": "/react-sandbox/docs/precache-manifest.4aa5e08a546b43b1a9abf06b92f1c227.js",
-    "service-worker.js": "/react-sandbox/docs/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-sandbox/docs/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.dd65bab9.chunk.js.LICENSE.txt": "/react-sandbox/docs/static/js/2.dd65bab9.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-sandbox/docs/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-sandbox/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-sandbox/static/js/main.2df7110c.chunk.js",
+    "main.js.map": "/react-sandbox/static/js/main.2df7110c.chunk.js.map",
+    "runtime-main.js": "/react-sandbox/static/js/runtime-main.d4df6506.js",
+    "runtime-main.js.map": "/react-sandbox/static/js/runtime-main.d4df6506.js.map",
+    "static/js/2.dd65bab9.chunk.js": "/react-sandbox/static/js/2.dd65bab9.chunk.js",
+    "static/js/2.dd65bab9.chunk.js.map": "/react-sandbox/static/js/2.dd65bab9.chunk.js.map",
+    "index.html": "/react-sandbox/index.html",
+    "precache-manifest.45174c28703eb604fac95c8aea772c31.js": "/react-sandbox/precache-manifest.45174c28703eb604fac95c8aea772c31.js",
+    "service-worker.js": "/react-sandbox/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-sandbox/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dd65bab9.chunk.js.LICENSE.txt": "/react-sandbox/static/js/2.dd65bab9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-sandbox/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bfdeb621.js",
+    "static/js/runtime-main.d4df6506.js",
     "static/js/2.dd65bab9.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d72a341e.chunk.js"
+    "static/js/main.2df7110c.chunk.js"
   ]
 }
